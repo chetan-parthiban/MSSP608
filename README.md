@@ -12,10 +12,10 @@ This GitHub respository contains all of the Google Colab materials from the firs
 # Using the Colab Notebooks
 First open the link to whatever notebook you want to run (you must also be signed into a Google Account). Then follow the link that says "Open in Playgroud"
 
-![playground_img](https://docs.google.com/uc?export=view&id=1VQDNDug_fe9hkElCzB6ib_-4tTHf8mbD)
+![playground_img](images/playground.png)
 
 After this, simply navigate to the run tab and click "run all" now you have a fully run, completely editable jupyter notebook running in the cloud! Yay!
 
-![run_all_img](https://docs.google.com/uc?export=view&id=1VcVszTl01kt55_bhJwYFOsWktSKggsTQ)
+![run_all_img](images/runall.png)
 
 For more info on Google Colab, check out [this tutorial from Google](https://colab.research.google.com/notebooks/intro.ipynb)
