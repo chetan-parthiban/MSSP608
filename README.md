@@ -18,4 +18,8 @@ After this, simply navigate to the run tab and click "run all" now you have a fu
 
 ![run_all_img](runall.png)
 
+If you get a warning, just hit "Run Anyways".
+
+![run_anyways](permission.png)
+
 For more info on Google Colab, check out [this tutorial from Google](https://colab.research.google.com/notebooks/intro.ipynb)
