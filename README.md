@@ -11,4 +11,5 @@ This GitHub respository contains all of the Google Colab materials from the firs
 
 # Using the Colab Notebooks
 First open the link to whatever notebook you want to run (you must also be signed into a Google Account). Then follow the link that says "Open in Playgroud"
+
 ![open in playground thumbnail](https://docs.google.com/uc?export=view&id=1VQDNDug_fe9hkElCzB6ib_-4tTHf8mbD)
