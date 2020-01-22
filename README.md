@@ -6,5 +6,5 @@ This GitHub respository contains all of the Google Colab materials from the firs
 - [Day 2 [Test Sets, Metrics, and Logistic Regression]](https://colab.research.google.com/drive/174sQY421wwoj4dtMdURSMH7udP3zZn3a)
 - [Day 3 [Cross Validation and Hyperparameters]](https://colab.research.google.com/drive/1yExnaqLyjKswI_3xw98xF0GeDAegkl48)
 # Homework Notebook Templates on Google Colab
-
+- [Homework 1 Template](https://colab.research.google.com/drive/1r9KIhVWqroSNJZf2rf0LizIO1n2d9iVt)
 # Homework Notebook Solutions on Google Colab
