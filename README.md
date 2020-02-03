@@ -7,6 +7,7 @@ This GitHub respository contains all of the Google Colab materials from the firs
 - [Day 3 [Cross Validation and Hyperparameters]](https://colab.research.google.com/drive/1yExnaqLyjKswI_3xw98xF0GeDAegkl48)
 # Homework Notebook Templates on Google Colab
 - [Homework 1 Template](https://colab.research.google.com/drive/1r9KIhVWqroSNJZf2rf0LizIO1n2d9iVt)
+- [Homework 2 Template](https://colab.research.google.com/drive/1WDKXYa-VY4QUwiBBZJdSlAQBt2WvJeSh)
 # Homework Notebook Solutions on Google Colab
 - Solutions coming soon
 # Using the Colab Notebooks
