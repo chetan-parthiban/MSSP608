@@ -14,6 +14,8 @@ This GitHub respository contains all of the Google Colab materials from the firs
 # Homework Notebook Templates on Google Colab
 - [Homework 1 Template](https://colab.research.google.com/drive/1r9KIhVWqroSNJZf2rf0LizIO1n2d9iVt)
 - [Homework 2 Template](https://colab.research.google.com/drive/1JUY5zVghRRFgE9crreTJrDHTIC6i0OMr)
+- [Homework 5 Template](https://colab.research.google.com/drive/1QIIVuJxlhvk0A-5yygvDpv-YHiYRfzrv)
+
 # Recitation Slides
 - [Recitation #2 - Python Libraries, Hyperparameter Optimization, Bias/Variance](Recitation2-MSSP608.pdf)
 - [Recitation #3 - SVMs, Naive Bayes, kNNs, and tricks in Google Colab](Recitation3-MSSP608.pdf)
