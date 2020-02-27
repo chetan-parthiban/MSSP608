@@ -16,7 +16,7 @@ This GitHub respository contains all of the Google Colab materials from the firs
 - [Homework 2 Template](https://colab.research.google.com/drive/1JUY5zVghRRFgE9crreTJrDHTIC6i0OMr)
 # Recitation Slides
 - [Recitation #2 - Python Libraries, Hyperparameter Optimization, Bias/Variance](Recitation2-MSSP608.pdf)
-- [Recitation #3 - SVMs, Naive Bayes, kNNs, and tricks in Google Colab](Recitation3-MMSP608.pdf)
+- [Recitation #3 - SVMs, Naive Bayes, kNNs, and tricks in Google Colab](Recitation3-MSSP608.pdf)
 # Using the Colab Notebooks
 First open the link to whatever notebook you want to run (you must also be signed into a Google Account). Then follow the link that says "Open in Playgroud"
 
