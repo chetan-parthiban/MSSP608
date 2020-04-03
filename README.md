@@ -9,16 +9,16 @@ This GitHub respository contains all of the Google Colab materials from the firs
 - [Day 5 [Dependency Parsing, Multilingual NLP. Domain Transfer, and Word Embeddings]](https://colab.research.google.com/drive/1mBWDteLZvL-dQO6S2LI6HtVLzZ3cy2Iv)
 - [Day 6 [k-Nearest-Neighbors and Support Vector Machines]](https://colab.research.google.com/drive/1TLLWELc6iS12w0GcF_KCIBpPDcIU53fA)
 - [Day 7 [Ensemble Methods and Unsupervised Learning]](https://colab.research.google.com/drive/1in9ZZ7Huc_TjJfUQw8BHy8qVgVO8Z44y)
+- [Day 8 [Fairness and Explainability]](https://colab.research.google.com/drive/1nmNiRgkSk1i0Ba69toewhv1AnbEm9iXA)
 - [Day 9 [Neural Networks and Deep Learning]](https://colab.research.google.com/drive/1M_LDlCQWbzzC7tzdFHol9ta2U01b2ojo#scrollTo=E1RN2m6JXU0h)
-
-# Homework Notebook Templates on Google Colab
-- [Homework 1 Template](https://colab.research.google.com/drive/1r9KIhVWqroSNJZf2rf0LizIO1n2d9iVt)
-- [Homework 2 Template](https://colab.research.google.com/drive/1JUY5zVghRRFgE9crreTJrDHTIC6i0OMr)
-- [Homework 5 Template](https://colab.research.google.com/drive/1QIIVuJxlhvk0A-5yygvDpv-YHiYRfzrv)
 
 # Recitation Slides
 - [Recitation #2 - Python Libraries, Hyperparameter Optimization, Bias/Variance](Recitation2-MSSP608.pdf)
 - [Recitation #3 - SVMs, Naive Bayes, kNNs, and tricks in Google Colab](Recitation3-MSSP608.pdf)
+- [Recitation #4 - Ensembles and Unsupervised Learning](Recitation4-MSSP608.pdf)
+- [Bias and Fairness](Bias_Fairness.pdf)
+- [Recitation #5 - Deep Learning](Recitation5-MSSP608.pdf)
+
 # Using the Colab Notebooks
 First open the link to whatever notebook you want to run (you must also be signed into a Google Account). Then follow the link that says "Open in Playgroud"
 
