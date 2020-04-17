@@ -18,6 +18,7 @@ This GitHub respository contains all of the Google Colab materials from the firs
 - [Recitation #4 - Ensembles and Unsupervised Learning](Recitation4-MSSP608.pdf)
 - [Bias and Fairness](Bias_Fairness.pdf)
 - [Recitation #5 - Deep Learning](Recitation5-MSSP608.pdf)
+- [Recitation #6 - Personal Websites](Recitation6-MSSP608.pdf)
 
 # Using the Colab Notebooks
 First open the link to whatever notebook you want to run (you must also be signed into a Google Account). Then follow the link that says "Open in Playgroud"
